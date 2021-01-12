@@ -2,7 +2,7 @@
 
 I am a `Software Developer` ⚡ for 4 years, I try to learn something new every day and share it with everyone.
  
-I am Venezuelan, lover of technology and algorithms. :+1: 
+I am Venezuelan, lover of technology and algorithms.
 <!--
 **espinozajgx/espinozajgx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
