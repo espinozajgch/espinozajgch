@@ -1,5 +1,7 @@
 ### Hi, my name is Jose Espinoza 👋
 
+![GitHub all releases](https://img.shields.io/github/downloads/espinozajgx/espinozajgx/total)
+
 I am a `Software Developer` ⚡ for 4 years, I try to learn something new every day and share it with everyone.
  
 I am Venezuelan, lover of technology and algorithms.
