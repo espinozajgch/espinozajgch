@@ -1,4 +1,4 @@
-#### Hi, my name is Jose Espinoza 👋, I am Venezuelan, lover of technology and algorithms.
+## Hi, my name is Jose Espinoza 👋, I am Venezuelan, lover of technology and algorithms.
 
 ## 👨 Social @espinozajgch
 <!--![url](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&url=https://github.com/espinozajgx/)-->
