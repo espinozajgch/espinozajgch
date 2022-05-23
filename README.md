@@ -1,6 +1,6 @@
 ## Hi, my name is Jose Espinoza 👋, I am Venezuelan, lover of technology and algorithms.
 
-## 👨 Social @espinozajgch
+### 👨 Social @espinozajgch
 <!--![url](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&url=https://github.com/espinozajgx/)-->
 ![](https://img.shields.io/badge/platzi-green?style=for-the-badge&logo=platzi&logoColor=white&url=https://platzi.com/p/ESPINOZAJGX/)
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/jose-espinoza-397a59138/)
