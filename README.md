@@ -1,45 +1,74 @@
-## Hi, my name is Jose Espinoza 👋, I am Venezuelan, lover of technology and algorithms.
+# Hi there, I'm Jose Espinoza 👋
 
-### 👨 Social @espinozajgch
-<!--![url](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&url=https://github.com/espinozajgx/)-->
-![](https://img.shields.io/badge/platzi-green?style=for-the-badge&logo=platzi&logoColor=white&url=https://platzi.com/p/ESPINOZAJGX/)
-![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&url=https://www.linkedin.com/in/jose-espinoza-397a59138/)
-![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&url=https%3A%2F%2Ftwitter.com%2Fespinozajgch)
+### Senior Software Engineer | Backend & Cloud Architecture | Sports Data Analytics ⚽
 
-I am a `Software Engineer` ⚡ since 2017, I try to learn something new every day and share it with everyone.
+Computer Science graduate with professional experience in international consulting companies across banking, geospatial data and enterprise technology projects.
 
-I’m currently working as a Backend Microservices developer with Spring Boot and I am preparing professionally as a FullStack Developer
+I specialize in backend development, cloud infrastructure, microservices and API architectures, working mainly with Java, Spring Boot, AWS and modern DevOps workflows.
 
-## 🚀 Skills
-![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![image](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&Color=white)
-</br>
-![image](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![image](https://img.shields.io/badge/Javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-</br>
-![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
-</br>
-![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![image](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white&Color=white)
+In recent years, I have expanded my profile into Sports Data Analytics and Big Data applied to football, developing projects related to:
+- football data pipelines,
+- performance analysis,
+- scouting platforms,
+- dashboards & visualizations,
+- CI/CD automation,
+- and sports data integration using providers such as Opta, StatsBomb and Wyscout.
 
-## Find me at:
-[![Web](https://img.shields.io/badge/espinozajgch.github.io-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://espinozajgch.github.io./)
+I also actively explore AI-assisted workflows to improve development processes, automation and data analysis.
 
-<!--
-Here are some ideas to get you started:
+---
 
-- 🔭  ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+- Backend & Cloud Architecture
+- Microservices & REST APIs
+- AWS & DevOps
+- CI/CD Automation
+- Sports Analytics & Football Data
+- Streamlit & Data Visualization
+- AI-assisted Engineering Workflows
+
+---
+
+## ⚙️ Tech Stack
+
+### Backend & APIs
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Sports Data & Analytics
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+- ⚽ Football Data Analytics Platforms
+- 📊 Sports Performance Dashboards
+- ☁️ Cloud Infrastructure & CI/CD Pipelines
+- 🔍 Scouting & Performance Analysis Tools
+- 🚀 Backend APIs & Microservices
+
+---
+
+## 🌐 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/espinozajgch
+- Portfolio: https://espinozajgch.github.io
